@@ -7,3 +7,8 @@
 - 📫 How to reach me: michaeldragomir@gmail.com, `https://www.linkedin.com/in/michaeldragomir`
 
 - ⚡ Fun fact: I used to be a mixologist. Ask me about it!
+
+
+
+
+#### This will continuously be updated as projects evolve.
